@@ -31,6 +31,13 @@
             50% { opacity: 0.5; }
             100% { opacity: 1; }
         }
+        a {
+            color: #00ff00;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -38,13 +45,8 @@
         <div class="star">★</div>
         <div class="message">
             <h1>For Sale!</h1>
-            <p>Email: <a href="mailto:blehyee@aol.com" style="color: #00ff00;">blehyee@aol.com</a></p>
+            <p>Email: <a href="mailto:blehyee@aol.com">blehyee@aol.com</a></p>
         </div>
     </div>
 </body>
 </html>
-
-/ (root)
-  ├── index.html
-  ├── styles.css (if used)
-  ├── script.js (if used)
