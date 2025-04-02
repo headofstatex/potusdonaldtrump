@@ -43,3 +43,8 @@
     </div>
 </body>
 </html>
+
+/ (root)
+  ├── index.html
+  ├── styles.css (if used)
+  ├── script.js (if used)
